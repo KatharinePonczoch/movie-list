@@ -1,0 +1,10 @@
+.movie_card {
+  border: 2px solid black;
+  padding: 20px;
+  margin: 15px;
+  /* display: flex;
+  flex-direction: column; */
+}
+ul {
+  list-style-type: none;
+}
